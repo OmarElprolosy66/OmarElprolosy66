@@ -46,8 +46,9 @@ Backend Developer focused on building scalable server-side applications and syst
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-sayed-97553a246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-elsayed-elprolosy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/omarelsayedelp)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](omarelsayed6600@gmail.com)
 
 ---
 
