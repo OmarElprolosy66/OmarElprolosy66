@@ -1,6 +1,6 @@
 # Omar Elprolosy
 
-Backend Developer focused on building scalable server-side applications and systems programming.
+**Backend and Software Engineer** focused on building scalable server-side applications and systems programming.
 
 ## Tech Stack
 
