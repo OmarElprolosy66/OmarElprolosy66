@@ -16,6 +16,7 @@
 
 **Backend Frameworks**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-000000?style=flat-square&logo=springboot&logoColor=green)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
@@ -37,12 +38,12 @@
 - Network Programming
 - Low-Level Development
 
-## Notable Projects
+<!-- ## Notable Projects
 
 | Project | Description |
 |---------|-------------|
 | [**dsc**](https://github.com/OmarElprolosy66/dsc) | STB-style single-header C library for data structures (hash tables, dynamic lists) with type-safe generics |
-| [**inventory-management-system.JS**](https://github.com/OmarElprolosy66/inventory-management-system.JS) | Inventory management system |
+| [**inventory-management-system.JS**](https://github.com/OmarElprolosy66/inventory-management-system.JS) | Inventory management system | -->
 
 ## Contact
 
